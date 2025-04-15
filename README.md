@@ -26,4 +26,12 @@ To build and run a Qt-C++ application on Linux Ubuntu (VS Code) follow these ste
 - 3) If you make any change to the application's source code, make sure to build and debug the app again (repeat step - 2).
 - 4) If you add any source file and/or modify any source file's name, make sure to modify the "qt_add_executable" in your CMakeLists.txt file, then configure CMake again, then build and debug.
 ## SQLite:
-Before running the application, check that SQLite works correctly
+Before running the application, check that SQLite libraries are downloaded and compile them for your OS. The Libraries folder should contain files:
+    - shell.c
+    - sqlite3.c
+    - sqlite3.h
+    - sqlite3ext.h
+If any are missing, please delete the content of Libraries, then download file sqlite-src-3490100.zip from "SQLite - Source Code" at SQLite: https://sqlite.org/download.html; extract the contents in folder Libraries, then once all files are present, run:
+- `gcc -c Libraries/sqlite3.c -o sqlite3.o`
+- `g++ -T./Libraries Test/SQLite/test.cpp sqlite3.o -Wall -o Test/SQLite/Test`
+- `./Test/SQLite/Test`

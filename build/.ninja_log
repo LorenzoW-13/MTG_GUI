@@ -1,0 +1,16 @@
+# ninja log v5
+369	381	1744901944275338516	CMakeFiles/MTGManager.dir/DBOp.cpp.o	5118f070443dffef
+368	3385	1744901947275332428	CMakeFiles/MTGManager.dir/mainwindow.cpp.o	9ad712beefe5c787
+3943	4371	1744901948260330434	MTGManager	69083e8f29cef87d
+368	3273	1744901947164332653	CMakeFiles/MTGManager.dir/MTGManager_autogen/mocs_compilation.cpp.o	54d8d0d4071c6c17
+2	44	1744901905829418749	sqlite3_autogen/timestamp	db58f5667f197f50
+5	368	1744901944249338569	/home/lw13/Desktop/GitHub/MTG_GUI/build/MTGManager_autogen/timestamp	9cfd06689005bb5a
+2	44	1744901905829418749	sqlite3_autogen/mocs_compilation.cpp	db58f5667f197f50
+5	368	1744901944249338569	MTGManager_autogen/mocs_compilation.cpp	9cfd06689005bb5a
+2	44	1744901905829418749	/home/lw13/Desktop/GitHub/MTG_GUI/build/sqlite3_autogen/timestamp	db58f5667f197f50
+5	368	1744901944249338569	/home/lw13/Desktop/GitHub/MTG_GUI/build/MTGManager_autogen/mocs_compilation.cpp	9cfd06689005bb5a
+368	3942	1744901947834331296	CMakeFiles/MTGManager.dir/main.cpp.o	88620b12ad3c29f2
+2	44	1744901905829418749	/home/lw13/Desktop/GitHub/MTG_GUI/build/sqlite3_autogen/mocs_compilation.cpp	db58f5667f197f50
+45	60	1744901905853418697	CMakeFiles/sqlite3.dir/sqlite3_autogen/mocs_compilation.cpp.o	cd6afab0554583bd
+60	115	1744901905906418584	libsqlite3.a	a7b252605e9b7eb4
+5	368	1744901944249338569	MTGManager_autogen/timestamp	9cfd06689005bb5a

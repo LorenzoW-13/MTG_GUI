@@ -1,0 +1,8 @@
+/home/lw13/Desktop/GitHub/MTG_GUI/build/CMakeFiles/sqlite3.dir
+/home/lw13/Desktop/GitHub/MTG_GUI/build/CMakeFiles/MTGManager.dir
+/home/lw13/Desktop/GitHub/MTG_GUI/build/CMakeFiles/edit_cache.dir
+/home/lw13/Desktop/GitHub/MTG_GUI/build/CMakeFiles/rebuild_cache.dir
+/home/lw13/Desktop/GitHub/MTG_GUI/build/CMakeFiles/sqlite3_autogen_timestamp_deps.dir
+/home/lw13/Desktop/GitHub/MTG_GUI/build/CMakeFiles/sqlite3_autogen.dir
+/home/lw13/Desktop/GitHub/MTG_GUI/build/CMakeFiles/MTGManager_autogen_timestamp_deps.dir
+/home/lw13/Desktop/GitHub/MTG_GUI/build/CMakeFiles/MTGManager_autogen.dir

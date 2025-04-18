@@ -16,8 +16,11 @@ add_library(sqlite3 STATIC sqlite3.o)
 
 qt_add_executable(MTGManager
     main.cpp
+
     mainwindow.cpp
     mainwindow.ui
+
+    DBOp.cpp
 )
 
 target_link_libraries(MTGManager PRIVATE Qt6::Widgets)

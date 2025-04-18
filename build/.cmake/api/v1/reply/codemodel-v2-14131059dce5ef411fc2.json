@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MTGManager",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MTGManager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MTGManager-Debug-db45d4c802ec2fbfc822.json",
+					"name" : "MTGManager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MTGManager_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MTGManager_autogen-Debug-94e082bcb93cec5cb4e1.json",
+					"name" : "MTGManager_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MTGManager_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MTGManager_autogen_timestamp_deps-Debug-543001cced49c6390ae8.json",
+					"name" : "MTGManager_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sqlite3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sqlite3-Debug-7d93e2103be66cb54a95.json",
+					"name" : "sqlite3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sqlite3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sqlite3_autogen-Debug-9c2fcd3f3c8b5357e310.json",
+					"name" : "sqlite3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sqlite3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sqlite3_autogen_timestamp_deps-Debug-023323c9c8542911b302.json",
+					"name" : "sqlite3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lw13/Desktop/GitHub/MTG_GUI/build",
+		"source" : "/home/lw13/Desktop/GitHub/MTG_GUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

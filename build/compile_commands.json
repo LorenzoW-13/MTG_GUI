@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/lw13/Desktop/GitHub/MTG_GUI/build",
+  "command": "/usr/bin/c++ -I/home/lw13/Desktop/GitHub/MTG_GUI/build/sqlite3_autogen/include -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles/sqlite3.dir/sqlite3_autogen/mocs_compilation.cpp.o -c /home/lw13/Desktop/GitHub/MTG_GUI/build/sqlite3_autogen/mocs_compilation.cpp",
+  "file": "/home/lw13/Desktop/GitHub/MTG_GUI/build/sqlite3_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/sqlite3.dir/sqlite3_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/lw13/Desktop/GitHub/MTG_GUI/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/lw13/Desktop/GitHub/MTG_GUI/build/MTGManager_autogen/include -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtCore -isystem /home/lw13/Qt/6.8.2/gcc_64/include -isystem /home/lw13/Qt/6.8.2/gcc_64/mkspecs/linux-g++ -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtWidgets -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/MTGManager.dir/MTGManager_autogen/mocs_compilation.cpp.o -c /home/lw13/Desktop/GitHub/MTG_GUI/build/MTGManager_autogen/mocs_compilation.cpp",
+  "file": "/home/lw13/Desktop/GitHub/MTG_GUI/build/MTGManager_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/MTGManager.dir/MTGManager_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/lw13/Desktop/GitHub/MTG_GUI/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/lw13/Desktop/GitHub/MTG_GUI/build/MTGManager_autogen/include -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtCore -isystem /home/lw13/Qt/6.8.2/gcc_64/include -isystem /home/lw13/Qt/6.8.2/gcc_64/mkspecs/linux-g++ -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtWidgets -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/MTGManager.dir/main.cpp.o -c /home/lw13/Desktop/GitHub/MTG_GUI/main.cpp",
+  "file": "/home/lw13/Desktop/GitHub/MTG_GUI/main.cpp",
+  "output": "CMakeFiles/MTGManager.dir/main.cpp.o"
+},
+{
+  "directory": "/home/lw13/Desktop/GitHub/MTG_GUI/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/lw13/Desktop/GitHub/MTG_GUI/build/MTGManager_autogen/include -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtCore -isystem /home/lw13/Qt/6.8.2/gcc_64/include -isystem /home/lw13/Qt/6.8.2/gcc_64/mkspecs/linux-g++ -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtWidgets -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/MTGManager.dir/mainwindow.cpp.o -c /home/lw13/Desktop/GitHub/MTG_GUI/mainwindow.cpp",
+  "file": "/home/lw13/Desktop/GitHub/MTG_GUI/mainwindow.cpp",
+  "output": "CMakeFiles/MTGManager.dir/mainwindow.cpp.o"
+},
+{
+  "directory": "/home/lw13/Desktop/GitHub/MTG_GUI/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/lw13/Desktop/GitHub/MTG_GUI/build/MTGManager_autogen/include -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtCore -isystem /home/lw13/Qt/6.8.2/gcc_64/include -isystem /home/lw13/Qt/6.8.2/gcc_64/mkspecs/linux-g++ -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtWidgets -isystem /home/lw13/Qt/6.8.2/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/MTGManager.dir/DBOp.cpp.o -c /home/lw13/Desktop/GitHub/MTG_GUI/DBOp.cpp",
+  "file": "/home/lw13/Desktop/GitHub/MTG_GUI/DBOp.cpp",
+  "output": "CMakeFiles/MTGManager.dir/DBOp.cpp.o"
+}
+]
